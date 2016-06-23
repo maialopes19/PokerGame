@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>DeckOfCardsMain</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>DeckOfCardsMain</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>..\..\..\..\..\..\..\4th Semester\Programming 3\Assessment\Group Project\AlarmModel\src\AlarmModel.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\4th Semester\Programming 3\Assessment\Group Project\AlarmModel\src\Alarm.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\4th Semester\Programming 3\Assessment\Group Project\AlarmModel\src\AlarmPass.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\4th Semester\Programming 3\Assessment\Group Project\AlarmModel\src\Password.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\..\..\..\..\Program Files\Java\jdk1.7.0_76\src.zip!javax\swing\ImageIcon.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Welcome.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\DeckOfCardsMain.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

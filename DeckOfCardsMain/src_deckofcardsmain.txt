@@ -1,0 +1,8 @@
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\Card.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\CardFace.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\CardImages.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\CardSuit.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\DeckofCards.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\DeckOfCardsMain.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\PokerGame.java"
+"C:\\Users\\Manuel Lopes\\Documents\\School Stuff\\3rd Semester\\Programming 2\\School Works\\Poker Game Project\\The Project\\Poker Game\\DeckOfCardsMain\\src\\Welcome.java"
